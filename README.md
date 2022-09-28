@@ -2,4 +2,4 @@
 
 
 
-I CAN'T STRESS ENOUGH, THIS IS FOR  REFRENCE ONLY!!!!!
+This isn't software, this is the game
