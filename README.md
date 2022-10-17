@@ -1,5 +1,3 @@
-# Decompiled MS-DOS Apps
+# Useless App
 
-
-
-This isn't software, this is the game
+You've wanted a timepass, so here it is.
