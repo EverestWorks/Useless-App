@@ -1,3 +1,16 @@
 # Useless App
 
-You've wanted a timepass, so here it is.
+This serves little to no function but timepass
+
+=======================================================
+
+
+Version: 0.0.100
+
+OS: WIndows, Andriod
+
+Updates: each update will bring a slight interface change, find what it is!
+
+
+=======================================================
+
